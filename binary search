@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 int main()
 {
   int c,i,j,t,first, last, middle, n, search, array[100];
