@@ -1,6 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
- 
 // structure of the tree node
 struct node
 {
